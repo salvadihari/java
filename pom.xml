@@ -13,8 +13,8 @@
 
   <groupId>com.squareup</groupId>
   <artifactId>squash-java</artifactId>
-  <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <version>1.0</version>
 
   <name>Squash Java</name>
   <description>Java client for the Squash exception reporting API.</description>
